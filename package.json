@@ -13,7 +13,7 @@
   ],
   "repository": "xprezzo/xprezzo-basic-auth",
   "dependencies": {
-    "xprezzo-buffer": "1.0.1"
+    "xprezzo-buffer": "1.1.0"
   },
   "devDependencies": {
     "eslint": "7.8.1",
