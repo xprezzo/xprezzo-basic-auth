@@ -93,7 +93,7 @@ server.listen(3000)
 
 ## People
 
-Xprezzo and related projects are maintained by [Ben Ajenoui](mailto:info@seoher.io) and sponsored by [SEO Hero](https://www.seohero.io).
+Xprezzo and related projects are maintained by [Ben Ajenoui](mailto:info@seohero.io) and sponsored by [SEO Hero](https://www.seohero.io).
 
 # License
 
